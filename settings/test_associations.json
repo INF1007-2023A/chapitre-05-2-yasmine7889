@@ -1,0 +1,18 @@
+{
+  "test_is_even_len": {
+    "name": "Longueur paire",
+    "points": 1
+  },
+  "test_get_num_char": {
+    "name": "Fréquence d'une lettre",
+    "points": 1
+  },
+  "test_get_first_part_of_name": {
+    "name": "Prénoms composés",
+    "points": 1
+  },
+  "test_get_random_sentence": {
+    "name": "Texte à trous",
+    "points": 1
+  }
+}
